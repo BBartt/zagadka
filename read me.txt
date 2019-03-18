@@ -1,0 +1,9 @@
+Dzieñ dobry
+
+Gra jest stworzona na wzór notpronu i powsta³a w 12 godzin.
+
+Zasady:
+-Nale¿y otworzyæ plik level1.html.
+-Kolejno przechodŸ kolejny poziom.
+
+Mi³ej zabawy
